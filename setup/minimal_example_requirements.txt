@@ -1,0 +1,8 @@
+Keras==2.4.3
+tensorflow==2.4.1
+scikit-image==0.18.1
+opencv-python
+matplotlib
+ipykernel
+imgaug==0.4.0
+numpy==1.19.5

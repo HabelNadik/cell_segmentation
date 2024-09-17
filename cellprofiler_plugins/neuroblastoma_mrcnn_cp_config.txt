@@ -1,0 +1,5 @@
+model_code_dir=./../mrcnn
+nucleus_code_dir=./../samples/nucleus
+nuclei_top_dir=./../
+model_weights_path=./../example_data/mask_rcnn_nucleus_0090.h5
+model_logs_dir=./../logs/
